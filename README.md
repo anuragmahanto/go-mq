@@ -1,2 +1,2 @@
-# go-queue
+# go-mq
 Go based messaging queue implementation.
